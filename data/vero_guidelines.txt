@@ -1,0 +1,8 @@
+=== VERO REMOTE WORK TAX DEDUCTIONS ===
+Employees who work remotely from home can claim deductions for expenses incurred in the production of income (*tulonhankkimiskulut*).
+- Standard Workspace Deduction: Covers home office costs like space, electricity, lighting, and general furniture (desks, chairs) without needing itemized receipts. Tiers are structured based on remote work frequency:
+  * Working from home more than 50% of workdays: Tiered flat-rate standard deduction.
+  * Working from home part-time (at most 50% of workdays): Moderate flat-rate deduction.
+  * Occasional remote work: Lower flat-rate deduction.
+- Data Connections (Broadband): If you purchase a data connection yourself that is used for work purposes, you can deduct a portion of the costs (typically 50% for mixed use, or up to 100% if used primarily for work).
+- Work Tools: Expenses for tools purchased independently for work use (such as monitors, keyboards, or specialized hardware) can be claimed as production-of-income expenses.

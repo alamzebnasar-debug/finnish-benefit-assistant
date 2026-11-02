@@ -1,0 +1,18 @@
+# Environment variables and secrets
+.env
+
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Local Vector Database storage (ChromaDB files)
+backend/chroma_db/
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+=== KELA STUDENT FINANCIAL AID (Opintotuki) ===
+Student financial aid consists of a study grant (opintoraha) and a student loan guarantee.
+- Study Grant Amount: If you do not have children, you can get up to €1,130 per month in student financial aid, consisting of about €280 for the study grant and €850 for the student loan. Students with children receive an increased study grant.
+- Income Limits: You can have other income while receiving student financial aid, but it is subject to an annual income limit. If your income exceeds the annual limit, Kela will recover the overpaid amount of financial aid with a 7.5% increase.
+- Exclusions: You cannot receive student financial aid if you are already being paid unemployment benefits, sickness allowance, or a general social security benefit for the same period.
+- Academic Progress: Kela tracks academic progress. You must make sufficient progress in your studies to continue receiving financial aid, which is typically paid for 9 months in a single academic year.

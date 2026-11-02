@@ -1,0 +1,6 @@
+=== KELA UNEMPLOYMENT BENEFITS (Työttömyysturva) ===
+Unemployment benefits provide income security for job seekers. 
+- Earnings-Related vs. Basic: Unemployment funds (työttömyyskassa) pay earnings-related unemployment allowance based on your previous salary. If you do not belong to an unemployment fund, you apply for general unemployment security (yleistuki/peruspäiväraha) from Kela.
+- Qualifying Period: If applying for general social security benefits from Kela without prior work history, Kela will check whether you have to complete a qualifying waiting period (odotusaika) of up to 5 months before the benefit can be paid.
+- Interest Assistance: If you are unemployed and have a low income, Kela can pay the interest due on your student loans (interest assistance).
+- Social Assistance (Toimeentulotuki): This is a last-resort financial assistance. If you are a student or unemployed, you must first apply for primary benefits (like study grants, student loans, or unemployment allowance) before you can receive social assistance.

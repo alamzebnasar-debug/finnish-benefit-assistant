@@ -1,0 +1,6 @@
+=== KELA GENERAL HOUSING ALLOWANCE (Yleinen asumistuki) ===
+The general housing allowance covers housing costs for low-income households. It is determined by the municipality, household size, and total income.
+- Income limits: Income affects the amount of housing allowance. If total gross monthly income increases, the housing allowance is recalculated.
+- Student earnings: Students can earn up to a certain threshold without affecting their student financial aid, but general housing allowance takes all earned income into account with an earned income deduction of 300 euros per month.
+- Eligible costs: Rent, water fees, and heating included in the lease contract are eligible up to maximum municipality-specific housing cost caps (e.g., Helsinki has higher caps than smaller towns).
+- Household definition: A household consists of people living permanently together in the same apartment (e.g., spouses, cohabitants, families, or single individuals).
